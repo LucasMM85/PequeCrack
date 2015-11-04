@@ -1,0 +1,7 @@
+src/main/resources/fxml/hello.fxml
+*.class
+target/classes/ar/tuc/pequecrack/view/Partidos.fxml
+*.prefs
+.project
+target/classes/csv/zona-1-sur-2005-matches_2015-09-15.csv
+target/classes/fxml/hello.fxml
